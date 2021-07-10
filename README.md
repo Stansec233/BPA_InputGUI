@@ -1,4 +1,4 @@
-# BPA_InputGUI
+# BPA_inputGUI
 用于在图形界面下生成电科院 BPA 软件下.dat文件下首部控制语句
 ## 环境
 Python 3.9.5
