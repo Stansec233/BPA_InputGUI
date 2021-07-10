@@ -4,6 +4,9 @@
 ## 安装依赖库
 pip install pyside2
 
+注：pip install pyinstaller 
+用 pyinstaller -F xxx.py 把 py 文件打包成 exe 文件，在没有 python 环境的 pc 上也可以直接运行
+
 ## 开发环境
 Python 3.9.5
 
